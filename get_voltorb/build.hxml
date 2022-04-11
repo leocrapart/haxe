@@ -1,3 +1,4 @@
 -cp src
 -main Main
--js bin/js/main.js
+# -js bin/js/main.js
+--interp
